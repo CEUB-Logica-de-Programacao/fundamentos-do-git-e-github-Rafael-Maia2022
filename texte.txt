@@ -1,0 +1,10 @@
+comnados: 
+mkdir repos
+ 
+cd repos
+ 
+ls
+
+nano
+
+cd
